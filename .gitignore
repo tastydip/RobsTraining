@@ -1,0 +1,13 @@
+# VS Files
+*.suo
+*.user
+
+# ReSharper Files
+_ReSharper*
+
+# NuGet Files
+packages/
+
+# Build Output
+bin/
+obj/
